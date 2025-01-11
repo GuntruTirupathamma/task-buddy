@@ -52,10 +52,15 @@ The button is hidden if there are no tasks in the list.
 🛠️ Technologies Used
 
 ReactJS: 
+
 For building the user interface.
+
 Local Storage:
+
 To store tasks persistently in the browser.
+
 CSS: 
+
 For styling the application.
 
 🚀 How to Run the Project
